@@ -46,10 +46,10 @@ for(var m=prdctsByPrice.length-1;m>=0;m--){
 
 console.log('reverseprdctByPrice',reverseprdctByPrice)
 /* ********************************************************************/
-var avaiProducts=[prdctById,prdctsByPrice,reverseprdctByPrice];
+var avProducts=[prdctById,prdctsByPrice,reverseprdctByPrice];
 
 console.log('ppp:',avaiProducts)
-        return <select style={{width:'200px',height:'35px'}} onChange={e=>onChangedSort(e,avaiProducts)
+        return <select style={{width:'200px',height:'35px'}} onChange={e=>onChangedSort(e,avProducts)
         
         
         }>
