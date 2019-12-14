@@ -1,0 +1,23 @@
+
+
+[
+    {"id":1,"title":"Nake","img":"nvyi01.jpg","price":"80.00","inventory":2,"availableSizes":["XS","L"]},
+    {"id":2,"title":"Nake","img":"nvyi02.jpg","price":"210.00","inventory":8,"availableSizes":["S","M","L"]},
+    {"id":3,"title":"Addidace","img":"nvyi03.jpg","price":"150.00","inventory":2,"availableSizes":["M","L"]},
+    {"id":4,"title":"Nake-T","img":"nvyi04.jpg","price":"380.00","inventory":5,"availableSizes":["XS","M","L"]},
+    {"id":5,"title":"Anta-w","img":"nvyi05.jpg","price":"280.00","inventory":9,"availableSizes":["XL","XXL"]},
+    {"id":6,"title":"Snake-v","img":"nvyi06.jpg","price":"180.00","inventory":7,"availableSizes":["M","ML"]},
+    {"id":7,"title":"Nake","img":"nvyi07.jpg","price":"350.00","inventory":2,"availableSizes":["XS","S","M","L"]},
+    {"id":8,"title":"Sitiven-k","img":"nvyi08.jpg","price":"120.00","inventory":4,"availableSizes":["S","L"]},
+    {"id":9,"title":"Mata","img":"nvyi09.jpg","price":"160.00","inventory":2,"availableSizes":["S","L","XL"]},
+    {"id":10,"title":"C-Ddrengin","img":"nvyi10.jpg","price":"170.00","inventory":2,"availableSizes":["XS","L"]},
+    {"id":11,"title":"G-what","img":"nvyi11.jpg","price":"200.00","inventory":6,"availableSizes":["XS","S","M"]},
+    {"id":12,"title":"Qiaodan","img":"nvyi12.jpg","price":"220.00","inventory":2,"availableSizes":["XS","S","L"]},
+    {"id":13,"title":"Fly-n","img":"nvyi13.jpg","price":"190.00","inventory":2,"availableSizes":["M","ML","L"]},
+    {"id":14,"title":"Battle-L","img":"nvyi14.jpg","price":"300.00","inventory":4,"availableSizes":["XS","S","M"]},
+    {"id":15,"title":"Hxingerke-c","img":"nvyi15.jpg","price":"280.00","inventory":2,"availableSizes":["S","L"]},
+    {"id":16,"title":"Shilaike","img":"nvyi16.jpg","price":"240.00","inventory":2,"availableSizes":["XL","XXL"]},
+    {"id":17,"title":"Ai-FA","img":"nvyi17.jpg","price":"90.00","inventory":8,"availableSizes":["M","L"]},
+    {"id":18,"title":"Tommorry-m","img":"nvyi18.jpg","price":"410.00","inventory":3,"availableSizes":["XS","XL"]}
+]
+    
