@@ -57,8 +57,8 @@ const Size=({size,selectSize,addSize,products,selectChange})=>{
                    onClick={()=>addSize(size,selectSize,p,selectChange)}
                    style={btnStyle}
                  >
-                 {size}{console.log('sizelength',selectSize.length)}
-                 {console.log('electChange',selectChange)}
+                 {size}
+               
         </button>
         
         
