@@ -15,7 +15,7 @@ function App({showcart,cartnums}) {
       <div style={{width:'100%',display:'flex',justifyContent:'space-between'}}>
      
           <div style={{width:'60px',height:'60px'}}>
-           <a>
+           <a href='https://github.com/y1232112/shop-cart.git'>
              
                <img alt="githubpath" src={gitimg} style={{width:'60px',height:'60px'}}/>
              

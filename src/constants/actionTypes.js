@@ -1,11 +1,5 @@
 
-export const CLICK_XS='CLICK_XS';
-export const CLICK_S='CLICK_S';
-export const CLICK_M='CLICK_M';
-export const CLICK_ML='CLICK_ML';
-export const CLICK_L='CLICK_L';
-export const CLICK_XL='CLICK_XL';
-export const CLICK_XXL='CLICK_XXL';
+
 export const RECEIVE_SIZE='RECEIVE_SIZE';
 export const RECEIVE_PRODUCTS='RECEIVE_PRODUCTS';
 export const SHOW_CART='SHOW_CART';
